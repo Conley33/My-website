@@ -1,0 +1,23 @@
+:root { 
+    --global-color-1: #7d31ac;
+}
+
+header img {
+   float: right;
+}
+/* This is kind of hard on the eyes, might have to change this later */
+h1 {text-shadow: 1.5px 1.5px 1.5px var(--global-color-1);}
+
+main li {
+    font-size: 90%;
+}
+ul.dog{
+    list-style-type:  square;
+}
+
+a:link {
+    color:rgb(35, 35, 196)
+}
+a:hover, a:focus {
+    color:rgb(191, 14, 135)
+}
