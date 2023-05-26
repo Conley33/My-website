@@ -1,0 +1,26 @@
+body{
+    width: 800px;
+    background-color:rgb(255, 255, 255);
+    margin:200px auto;
+    border: 1px solid black;
+}
+#coolshirt{
+    width: 500px;
+    height:600px;
+    float: left;
+    border-right: 2px solid rgb(0, 0, 0);
+}
+main{
+    height: 250px;
+   width: 200px;
+    float: right;
+}
+#fluffybutt{
+    width: 280px;
+    height: 440px;
+    float:right;
+    border-left: 2px solid #000000;
+}
+footer{
+    clear: both
+}
